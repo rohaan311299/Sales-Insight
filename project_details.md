@@ -5,10 +5,10 @@
 Hardware company which supplies hardware to different companies, they have a head office in India and different regional offices in different states of India. The sales director is managing business from head office. Each regional office has regional managers. The sales are declining for this company, sales director is having a hard time figuring out why it is happening. Managers paint a sugarcoated picture of what is actually happening. Managers give him huge excel files. 
 He wants simple answers like
 <ol>
-<li>1. Revenue breakdown by cities</li>
-<li>2. Revenue breakdown by years and months</li>
-<li>3. Show me top 5 customers by revenue and sales quantity</li>
-<li>4. Top 5 products by revenue nummber</li>
+<li>Revenue breakdown by cities</li>
+<li>Revenue breakdown by years and months</li>
+<li>Show me top 5 customers by revenue and sales quantity</li>
+<li>Top 5 products by revenue nummber</li>
 He wants visualization and not spreadsheets
 </ol>
 </p>
